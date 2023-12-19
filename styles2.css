@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: 30px
+    color: black
+}
+body{
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg);
+}
+.small-image {
+    width: 100px;
+    height: 50px;
+  }
+  <style>
+  a {
+    color: #000000;
+  }
+</style>
+<a href="https://example.com">Link</a>
+
+<a href="file:///Users/lauraneuhaus/Desktop/startbootstrap-freelancer-gh-pages%203/index.html">Home</a>
+
+div1{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+  }
+div2{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+div3{
+    font-size: 18px;
+    font font-weight: bold;
+    position: relative;
+}
